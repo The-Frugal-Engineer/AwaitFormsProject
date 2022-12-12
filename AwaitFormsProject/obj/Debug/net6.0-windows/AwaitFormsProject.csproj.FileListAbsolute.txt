@@ -1,0 +1,17 @@
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\bin\Debug\net6.0-windows\AwaitFormsProject.exe
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\bin\Debug\net6.0-windows\AwaitFormsProject.deps.json
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\bin\Debug\net6.0-windows\AwaitFormsProject.runtimeconfig.json
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\bin\Debug\net6.0-windows\AwaitFormsProject.dll
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\bin\Debug\net6.0-windows\AwaitFormsProject.pdb
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.Form1.resources
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.dll
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\refint\AwaitFormsProject.dll
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.pdb
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\AwaitFormsProject.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\AwaitFormsProject\AwaitFormsProject\obj\Debug\net6.0-windows\ref\AwaitFormsProject.dll
